@@ -1,4 +1,4 @@
-# Web Scraping News Headlines
+# Web Scraping-News Headlines
 
 This project is a simple Python web scraper that extracts news headlines from a news website (e.g., BBC News) and saves them into a text file.
 
