@@ -20,7 +20,7 @@ This project is a simple Python web scraper that extracts news headlines from a 
 - The script sends a User-Agent header to mimic a browser request for better compatibility with some websites.
 
 ## License
-This project is open source and free to use.
+  This project is open source and free to use.
 
 
 
