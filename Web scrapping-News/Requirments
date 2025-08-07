@@ -1,0 +1,11 @@
+File with only the list of required Python libraries, based on your current BBC News headline scraping project:
+
+
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==5.1.0
+
+✅ Explanation (not part of the file):
+requests: For making HTTP requests to websites.
+beautifulsoup4: For parsing HTML and extracting content.
+lxml: (Optional but recommended) A fast parser used by BeautifulSoup when available.
